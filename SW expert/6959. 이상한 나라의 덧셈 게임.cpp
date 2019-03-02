@@ -31,3 +31,6 @@ int main() {
 	}
 	return 0;
 }
+
+//합연산의 성질
+//Brute force
